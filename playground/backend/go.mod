@@ -20,7 +20,7 @@ go 1.18
 require (
 	cloud.google.com/go/datastore v1.6.0
 	cloud.google.com/go/logging v1.4.2
-	cloud.google.com/go/storage v1.23.0
+	cloud.google.com/go/storage v1.24.0
 	github.com/go-redis/redis/v8 v8.11.4
 	github.com/go-redis/redismock/v8 v8.0.6
 	github.com/google/uuid v1.3.0
@@ -62,7 +62,7 @@ require (
 	github.com/subosito/gotenv v1.3.0 // indirect
 	go.opencensus.io v0.23.0 // indirect
 	golang.org/x/net v0.0.0-20220617184016-355a448f1bc9 // indirect
-	golang.org/x/oauth2 v0.0.0-20220608161450-d0670ef3b1eb // indirect
+	golang.org/x/oauth2 v0.0.0-20220622183110-fd043fe589d2 // indirect
 	golang.org/x/sync v0.0.0-20220601150217-0de741cfad7f // indirect
 	golang.org/x/sys v0.0.0-20220615213510-4f61da869c0c // indirect
 	golang.org/x/text v0.3.7 // indirect
