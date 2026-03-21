@@ -18,11 +18,12 @@ module beam.apache.org/learning/tour-of-beam/backend
 go 1.16
 
 require (
-	github.com/GoogleCloudPlatform/functions-framework-go v1.5.3
+	github.com/GoogleCloudPlatform/functions-framework-go v1.9.2
 	gopkg.in/yaml.v3 v3.0.1
 )
 
 require (
-	cloud.google.com/go/datastore v1.8.0
-	github.com/stretchr/testify v1.8.0
+	cloud.google.com/go/datastore v1.20.0
+	github.com/stretchr/testify v1.9.0
+	gopkg.in/yaml.v2 v2.3.0 // indirect
 )
